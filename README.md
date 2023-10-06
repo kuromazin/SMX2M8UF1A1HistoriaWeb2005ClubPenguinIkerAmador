@@ -1,5 +1,9 @@
 # LA HISTORIA DEL WEB
 ## ¿Que es Club Penguin?🐧
-Club Penguin es un juego multijugador masivo en línea, o MMO (juego multijugador masivo en línea en inglés), que es un escenario del mundo real con muchos juegos y actividades en línea. Fue desarrollado por New Horizon Interactive (ahora conocido como Disney Canadá). Los jugadores usan avatares animados de pingüinos para jugar en el mundo abierto de la Antártida. Después de la prueba beta, Club Penguin se abrió al público el 24 de octubre de 2005, convirtiéndose en la comunidad en línea más grande, de modo que a finales de 2007, Club Penguin tenía un estimado de 30 millones de miembros. En julio de 2013, Club Penguin tenía más de 200 millones de cuentas registradas.
+Club Penguin es un juego multijugador masivo en línea, o MMO , que es un escenario del mundo real con muchos juegos y actividades en línea. Fue desarrollado por New Horizon Interactive. Los jugadores usan avatares animados de pingüinos para jugar en el mundo abierto de la Antártida. 
 ![Lobby de Club Penguin](https://github.com/kuromazin/SMX2M8UF1A1HistoriaWeb2005ClubPenguinIkerAmador/blob/main/ClubPenguinOnline.jpg)
 ## Origen Club Penguin
+Club Penguin se fundó el 10 de octubre de 2003, Club Penguin estaba buscando algo que tuviera alguna funcionalidad, pero que fuera seguro, y no solo para sus hijos. El 29 de marzo de 2017 todos los servidores de Club Penguin se cerraron.
+![Antigua Pagina de Club Penguin](https://github.com/kuromazin/SMX2M8UF1A1HistoriaWeb2005ClubPenguinIkerAmador/blob/main/maxresdefault.jpg)
+## ¿Quien creo Club Penguin?
+
