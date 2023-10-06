@@ -16,7 +16,8 @@ Los usuarios de Club se han adaptado y actualmente existe el New Club Penguin qu
 ![New Club Penguin](https://github.com/kuromazin/SMX2M8UF1A1HistoriaWeb2005ClubPenguinIkerAmador/blob/main/codes-new-club-penguin.jpg)
 
 
-Aqui dejo un video donde explica como jugar al club penguin por si os ha interesado
+Aqui dejo un video donde explica como jugar al club penguin por si os ha interesado.
+
 [Video en question](https://www.youtube.com/watch?v=MxgKXlfkJCc "Como jugar a club penguin en 2023")
 ![Miniatura](https://github.com/kuromazin/SMX2M8UF1A1HistoriaWeb2005ClubPenguinIkerAmador/blob/main/miniatura.jpg)
 
